@@ -1,0 +1,119 @@
+{
+    "name": "NexaVerse Full Dashboard Theme",
+    "dataColors": [
+        "#3C1A59",
+        "#801336",
+        "#478978",
+        "#E3B23C",
+        "#B22222",
+        "#5D5C61"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#801336",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#444444"
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ],
+                "fontFamily": [
+                    {
+                        "fontFamily": "Segoe UI"
+                    }
+                ]
+            }
+        },
+        "card": {
+            "*": {
+                "title": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#3C1A59"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ]
+            }
+        },
+        "slicer": {
+            "*": {
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#F7F7F7"
+                        }
+                    }
+                ],
+                "fontColor": [
+                    {
+                        "solid": {
+                            "color": "#444444"
+                        }
+                    }
+                ]
+            }
+        },
+        "multiRowCard": {
+            "*": {
+                "title": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#801336"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
