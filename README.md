@@ -31,38 +31,38 @@ PowerBi (Zomato)/
 
 ## 🚀 Dashboard Pages Overview
 
-### 🏠 Homepage
+### 🏠 Indexpage
 Gives an overview of key metrics like total orders, average ratings, and more.
 
-![Homepage](Screenshots/Homepage.png)
+![Indexpage](Screenshots/Screenshot%202025-06-28%20220415.png)
 
 ---
 
 ### 🍽️ Cuisine Popularity
 Shows top cuisines based on order count and user preferences.
 
-![CuisinePage](Screenshots/CuisinePage.png)
+![CuisinePage](Screenshots/Screenshot%202025-06-28%20220451.png)
 
 ---
 
 ### 🏨 Restaurant Page
 Provides details like average cost, rating distribution, and service types.
 
-![RestaurantPage](Screenshots/RestaurantPage.png)
+![RestaurantPage](Screenshots/Screenshot%202025-06-28%20220511.png)
 
 ---
 
 ### 📍 State Analysis
 Compares states based on total orders, ratings, and cuisine trends.
 
-![StatePage](Screenshots/StatePage.png)
+![StatePage](Screenshots/Screenshot%202025-06-28%20220519.png)
 
 ---
 
 ### 📈 Time Trend
 Shows how orders and ratings change over months or years.
 
-![TimeTrendPage](Screenshots/TimeTrendPage.png)
+![TimeTrendPage](Screenshots/Screenshot%202025-06-28%20220528.png)
 
 ---
 
